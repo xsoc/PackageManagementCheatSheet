@@ -1,7 +1,7 @@
 # PackageManagementCheatSheet
-Do you find yourself maintaing packages across a variety of systems? Remember the basics with this cheat sheet!
+Package managers, what were once an amazing quality of life improvement for the power user / admins, have in recent years become something of a waking nightmare with their unbridaled proliferation. Rein in the insainity and remember the basics with this cheat sheet!
 
- | System     	| Update      	| Install                         | Remove                        | Upgrade                     	|
+| System     	| Update      	| Install                         | Remove                        | Upgrade                     	|
 |------------	|-------------	|----------------------------------	|------------------------------	|-----------------------------	|
 | Apt        	| apt update  	| apt install *package*           	| apt remove *package*         	| apt upgrade                 	|
 | Chocolatey 	|             	| choco install *package*        	  | choco uninstall *package*    	| choco upgrade               	|
