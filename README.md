@@ -12,3 +12,5 @@ Package managers, what were once an amazing quality of life improvement for the 
 | Pacman     	| pacman -S   	| pacman -S *package*            	  | pacman -R *package*          	| pacman -Syu                 	| pacman -Ss *query*            |
 | Snap       	|             	| snap install *package*            | snap remove *package*        	| snap refresh                	|                               |
 | Winget      |               | winget install *package*          | winget uninstall *package*    | winget upgrade *package*      | winget search *query*         |
+
+OR... just install [topgrade](https://github.com/topgrade-rs/topgrade) and update all the things with one command :)
